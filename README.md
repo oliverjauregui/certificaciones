@@ -6,3 +6,4 @@ Futuring Peace https://oliverjauregui.github.io/certificaciones/FuturingPeace-Ol
 Open Inn https://oliverjauregui.github.io/certificaciones/DesignSprint%20Facilitator_OpenInn.pdf
 Behavioral Design https://oliverjauregui.github.io/certificaciones/Certificado-BehavioralDesign.png
 Desafiate PUCP https://oliverjauregui.github.io/certificaciones/CERTIFICADO-DESAFIATE%20PUCP.pdf
+Interaction Design Fundation https://oliverjauregui.github.io/certificaciones/IDF-Membership.jpg
